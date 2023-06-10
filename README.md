@@ -27,11 +27,6 @@ Hi, I am Erik Finkel. I am a Full Stack & Blockchain Developer.
     
  </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarava338&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarava338&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarava338&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarava338&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
