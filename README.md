@@ -26,9 +26,3 @@ Hi, I am Erik Finkel. I am a Full Stack & Blockchain Developer.
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
     
  </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarava338&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=sarava338&icon=0&color=0)](https://visitcount.itsvg.in)
