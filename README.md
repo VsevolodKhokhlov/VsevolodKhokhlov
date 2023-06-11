@@ -8,11 +8,9 @@ Hi, I am Erik Finkel. I am a Full Stack & Blockchain Developer.
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/react-native.png"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/vue.png"/> </a>
     <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/1x/angularjs.png"/> </a>
     <a href="https://www.blockchain.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/blockchain.png"/> </a> 
     <a href="https://ethereum.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/ethereum.png"/> </a> 
-    <a href="https://solana.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/solana.png"/> </a> 
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/redux.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
