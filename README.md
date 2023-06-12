@@ -2,9 +2,9 @@
 Hi, I am Erik Finkel. I am a Full Stack & Blockchain Developer.
 
 ## 🌐 Socials:
-[![Linkedin Badge](https://img.shields.io/badge/-mortezasabihi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mortezasabihi/)](https://www.linkedin.com/in/sss/)
-[![Website Badge](https://img.shields.io/badge/-mortezasabihi.com-4c51bf?style=flat&logo=Google-Chrome&logoColor=white&link=https://mortezasabihi.com)](https://erik-portfollio.vercel.app/)
-[![Gmail Badge](https://img.shields.io/badge/-morteza.sabihi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:morteza.sabihi@gmail.com)](mailto:erikfinkel21@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ErikFinkel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikfinkel/)](https://www.linkedin.com/in/sss/)
+[![Website Badge](https://img.shields.io/badge/-ErikFinkel.com-4c51bf?style=flat&logo=Google-Chrome&logoColor=white&link=https://mortezasabihi.com)](https://erik-portfollio.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-ErikFinkiel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:erikfinkel21.sabihi@gmail.com)](mailto:erikfinkel21@gmail.com)
 
 ## 🚀 Languages and Tools:
 
