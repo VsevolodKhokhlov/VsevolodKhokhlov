@@ -8,26 +8,21 @@ Hi, I am Erik Finkel. I am a Full Stack & Blockchain Developer.
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/react-native.png"/> </a>
-    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/1x/angularjs.png"/> </a>
-    <a href="https://www.blockchain.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/blockchain.png"/> </a> 
-    <a href="https://ethereum.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/ethereum.png"/> </a> 
-    <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/redux.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2B8EBB?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-3FB883?style=flat-square&logo=vue.js&logoColor=white" /> 
+  <img alt="NuxtJS" src="https://img.shields.io/badge/-NuxtJS-00c58e?style=flat-square&logo=nuxt.js&logoColor=white" /> 
+  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-5ED3F3?style=flat-square&logo=react&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat-square&logo=javascript&logoColor=white" /> 
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F74C0?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Eslint-4A32C3?style=flat-square&logo=eslint&logoColor=white" />
 </p>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/1x/node-js.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/1x/000000/mysql-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/javascript.png"/>  </a> 
-    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/1x/typescript.png"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/git.png"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass.png"/> </a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass-avatar.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/mongodb.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
 
