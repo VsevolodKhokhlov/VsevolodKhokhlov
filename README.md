@@ -2,7 +2,7 @@
 Hi, I am Erik Finkel. I am a Full Stack & Blockchain Developer.
 
 ## 🌐 Socials:
-[![Linkedin Badge](https://img.shields.io/badge/-ErikFinkel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikfinkel/)](https://www.linkedin.com/in/sss/)
+[![Linkedin Badge](https://img.shields.io/badge/-ErikFinkel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikfinkel/)](https://www.linkedin.com/in/erik-finkel-a6a77b22a/)
 [![Website Badge](https://img.shields.io/badge/-ErikFinkel-4c51bf?style=flat&logo=Google-Chrome&logoColor=white&link=https://mortezasabihi.com)](https://erik-portfollio.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-ErikFinkiel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:erikfinkel21.sabihi@gmail.com)](mailto:erikfinkel21@gmail.com)
 
