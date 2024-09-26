@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am https://x.com/TwitchIRL390463. I am a Full Stack & Blockchain Developer.
+Hi, I am Vsevolod Khokhlov. I am a Full Stack & Blockchain Developer.
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-VsevolodKhokhlov-blue?style=flat&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/erikfinkel/](https://www.linkedin.com/in/vsevolod-khokhlov-497521319/)](https://www.linkedin.com/in/vsevolod-khokhlov-497521319/))]([https://www.linkedin.com/in/erik-finkel-a6a77b22a/](https://www.linkedin.com/in/vsevolod-khokhlov-497521319/))
